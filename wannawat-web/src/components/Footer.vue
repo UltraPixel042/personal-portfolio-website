@@ -2,7 +2,7 @@
 
 <template>
     <footer
-        class="flex flex-col justify-between lg:flex-row gap-5 relative px-6 border-b border-slate-200 dark:border-slate-700 bg-slate-900 text-sm text-slate-500 shadow-xs md:px-8 py-4">
+        class="flex flex-col justify-between lg:flex-row gap-5 relative px-6 bg-slate-900 text-sm text-slate-500 shadow-xs md:px-8 py-4">
         <span>© 2025 Wannawat · Built with Vue.js + Tailwind CSS</span>
         <div class="flex justify-start items-center lg:justify-end gap-5">
             <a href="https://github.com/UltraPixel042" target="_blank" rel="noopener noreferrer">
